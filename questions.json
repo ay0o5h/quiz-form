@@ -1,0 +1,72 @@
+[
+  {
+    "title": "1)Inside which HTML element do we put the JavaScript",
+    "answer_1": "<script>",
+    "answer_2": "<js>",
+    "answer_3": "<javascript>",
+    "right_answer": "<script>"
+  },
+  {
+    "title": "2)Where is the correct place to insert a JavaScript?",
+    "answer_1": "the <body> section",
+    "answer_2": "the <head> section",
+    "answer_3": "both",
+    "right_answer": "both"
+  },
+  {
+   "title": "3)What is the correct syntax for referring to an external script called main.js?",
+    "answer_1": "<script src='main.js'>",
+    "answer_2": "<script href='main.js'>",
+    "answer_3": "<script name='main.js'>",
+    "right_answer": "<script src='main.js'>"
+  },
+  {
+    "title": "4)How do you write 'Hello World' in an alert box?",
+    "answer_1": "alertbox('hello word')",
+    "answer_2": "msg('hello word')",
+    "answer_3": "alert('hello word')",
+    "right_answer": "alert('hello word')"
+  },
+   {
+    "title": "5)How do you create a function in JavaScript?",
+    "answer_1": "function:myFunction()",
+    "answer_2": "function=myFunction()",
+    "answer_3": "function myFunction()",
+    "right_answer": "function myFunction()"
+  },
+  {
+    "title": "6)How do you call a function named 'myFunction'?",
+    "answer_1": "myFunction()",
+    "answer_2": "call function myFunction()",
+    "answer_3": "call myFunction()",
+    "right_answer": "myFunction()"
+  },
+  {
+    "title": "7)How to write an IF statement in JavaScript?",
+    "answer_1": "if i==5 then",
+    "answer_2": "if i==5",
+    "answer_3": "if (i==5)",
+    "right_answer": "if (i==5)"
+  },
+  {
+    "title": "8)How does a WHILE loop start?",
+    "answer_1": "while (i<= 10)",
+    "answer_2": "while (i<= 10;i++)",
+    "answer_3": "while (i=1 to 10)",
+    "right_answer": "while (i<= 10)"
+  },
+   {
+    "title": "9)How does a FOR loop start?",
+    "answer_1": "for( i=0 ;i< 10 ;i++)",
+    "answer_2": "for( i=0  ;i++)",
+    "answer_3": "for( i=0 ;i< 10 )",
+    "right_answer": "for( i=0 ;i< 10 ;i++)"
+  },
+  {
+    "title": "10)What will the following code return: Boolean(10 < 9)",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "nan",
+    "right_answer": "false"
+  }
+]
